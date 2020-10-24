@@ -9,21 +9,16 @@
 <<<<<<< HEAD
 title: CL2020
 description: Tôi yêu việc tôi đang làm.
-=======
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
->>>>>>> b5ea839caeb2893d2a4bf963ebe086f32dc9efc7
+
 github_username: hashdotlee
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "cl2020"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-<<<<<<< HEAD
-url: "https://hashdotlee.github.io/cl2020" # the base hostname & protocol for your site, e.g. http://example.com
-=======
+
 url: "https://hashdotlee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> b5ea839caeb2893d2a4bf963ebe086f32dc9efc7
+
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -67,11 +62,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-<<<<<<< HEAD
-#google_analytics: 
-=======
-google_analytics: 
->>>>>>> b5ea839caeb2893d2a4bf963ebe086f32dc9efc7
+
 
 exclude:
   - docker-compose.yml
